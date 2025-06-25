@@ -9,4 +9,4 @@ cerreal
 pirates
 treasure
 boom
-Wizards with wands
+Wizards with wooden wands
