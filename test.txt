@@ -9,3 +9,4 @@ cerreal
 pirates
 treasure
 boom
+Wizards
